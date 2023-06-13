@@ -1,0 +1,11 @@
+The below prompts were used to gather song lyrics from ChatGPT, BARD, NotionAI and HuggingChat services.
+
+Write lyrics for 5 novel songs in English. The songs should be an original and should be meaningful. You are free to choose any topic or any tone. Your output should be in the following format: Song Title Song Lyrics
+
+Write lyrics for 3 novel songs in English. The songs should be an original and should be meaningful. The song lyrics should be on the theme of sadness and despair. The lyrics should clearly talk about the reason for the sadness such as of remembering a lost loved one, a broken relationship, etc. Your output should be in the following format: Song Title Song Lyrics
+
+Write lyrics for 3 novel songs in English. The songs should be an original and should be meaningful. The song lyrics should be on the theme of love. Your output should be in the following format: Song Title Song Lyrics
+
+Write lyrics for 2 novel songs in English. The songs should be an original and should be meaningful. The song lyrics should be on the theme of human’s vices: pride, greed, wrath, envy, lust, gluttony, and sloth. Your output should be in the following format: Song Title Song Lyrics
+
+Write lyrics for 2 novel songs in English. The songs should be an original and should be meaningful. The song lyrics should be on the theme of a fun time or a party. Your output should be in the following format: Song Title Song Lyrics
